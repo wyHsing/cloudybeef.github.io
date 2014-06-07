@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cloudybeef.github.io/killer13/sitemap.xml 
